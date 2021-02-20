@@ -1,1 +1,1 @@
-hello
+- Master Build Status [![Build Status](https://www.travis-ci.com/Jack2680/semagain.svg?branch=master)](https://www.travis-ci.com/Jack2680/semagain)
