@@ -1,1 +1,4 @@
-hello
+- Master Build Status [![Build Status](https://www.travis-ci.com/Jack2680/semagain.svg?branch=master)](https://www.travis-ci.com/Jack2680/semagain)
+- Develop Build Status [![Build Status](https://travis-ci.org/Jack2680/semagain.svg?branch=develop)](https://travis-ci.org/Jack2680/semagain)
+- License [![LICENSE](https://img.shields.io/github/license/Jack2680/semagain.svg?style=flat-square)](https://github.com/Jack2680/semagain/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/Jack2680/semagain/all.svg?style=flat-square)](https://github.com/Jack2680/semagain/releases)
